@@ -1,0 +1,8 @@
+- Run commands:
+    - composer install
+    - php artisan migrate
+    - php artisan db:seed
+    - php artisan serve
+- php artisan serve command will open http://127.0.0.1:8000/
+- Make Database "report_builder"
+- You can select alias and press submit, then you will get collection of data.
